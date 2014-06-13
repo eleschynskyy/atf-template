@@ -1,0 +1,5 @@
+environments:
+
+ local:
+  scheme: http
+  host: app.admin.siliconvalleyhorizons.com
