@@ -5,7 +5,8 @@ import java.util.Map;
 
 public enum BrowserType {
 	FIREFOX("firefox"),
-	CHROME("chrome");
+	CHROME("chrome"),
+	IE("ie");
 	
 	private String browserKey;
 	private static Map<String, BrowserType> browserMap = new HashMap<String, BrowserType>();
